@@ -8,4 +8,11 @@ Make sure to change the language in the `index.js` to suit your needs.
 
 ## Requirement 
 
-Windows only
+- Windows only
+- Node installed
+
+## Run script
+
+```
+npm start
+```
