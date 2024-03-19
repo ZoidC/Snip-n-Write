@@ -1,14 +1,14 @@
 {
   "name": "snip-n-run",
   "version": "1.0.0",
-  "description": "",
+  "description": "This tool allows to capture an area of your screen and output the detected text via OCR.",
   "type": "module",
   "main": "./src/index.js",
   "scripts": {
     "start": "node ./src/index.js"
   },
   "keywords": [],
-  "author": "",
+  "author": "ZoidC",
   "license": "ISC",
   "dependencies": {
     "tesseract.js": "^5.0.5"

@@ -1,6 +1,6 @@
 # Snip & Write
 
-This tool allows to capture an area of your screen and output the text in this area.
+This tool allows to capture an area of your screen and output the detected text via OCR.
 
 ## Customize
 
