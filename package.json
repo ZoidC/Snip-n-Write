@@ -1,0 +1,16 @@
+{
+  "name": "winshifts_listen",
+  "version": "1.0.0",
+  "description": "",
+  "type": "module",
+  "main": "./src/index.js",
+  "scripts": {
+    "dev": "node ./src/index.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "tesseract.js": "^5.0.5"
+  }
+}
